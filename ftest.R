@@ -1,3 +1,5 @@
+# R script to compare linear/quadratic models with F test
+
 dSdata <- read.table("C:/Users/Jin Zhang/Google Drive/2nd project - sigma factor/with ptg/28dS.txt")
 dNdata <- read.table("C:/Users/Jin Zhang/Google Drive/2nd project - sigma factor/with ptg/28dN.txt")
 
